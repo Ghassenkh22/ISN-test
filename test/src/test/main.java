@@ -16,7 +16,7 @@ public class main {
 		// TODO Auto-generated method stub
 System.out.println("hello world");
 		System.out.println(" heyyy i did some changes");
-		System.out.println(" u seee");
+		System.out.println(" u seee something");
 	}
 
 }
